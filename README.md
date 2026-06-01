@@ -1,4 +1,4 @@
-# Coffee Grind Comparison
+# Coffee Grinder Comparison
 
 This project is a web application for comparing coffee grinders. Users can upload images of coffee grinds, and the application will analyze and compare them using Mistral's API.
 
